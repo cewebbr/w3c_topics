@@ -1,4 +1,4 @@
-# A profile of W3C members
+# Modelling W3C members' topics of interest
 
 _Breve descrição_
 
