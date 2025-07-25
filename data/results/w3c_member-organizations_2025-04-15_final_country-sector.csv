@@ -1,0 +1,382 @@
+name,country,llm_sector,my_sector,sector
+Centre For Accessibility Australia,Australia,Nonprofit organization,,Nonprofit organization
+Intopia,Australia,Nonprofit organization,,Nonprofit organization
+KurrawongAI,Australia,Small/Medium enterprise,,Small/Medium enterprise
+Pyx Industries,Australia,Nonprofit organization,,Nonprofit organization
+Universities Admissions Centre,Australia,Nonprofit organization,,Nonprofit organization
+Vision Australia,Australia,Nonprofit organization,,Nonprofit organization
+Danube Tech GmbH,Austria,Large enterprise,,Large enterprise
+Fabasoft,Austria,Large enterprise,,Large enterprise
+WU (Wirschaftsuniversität Wien) - Vienna University of Economics and Business,Austria,Academia,Academia,Academia
+Digitaal Vlaanderen,Belgium,Government,,Government
+GS1,Belgium,Nonprofit organization,,Nonprofit organization
+IAB Europe,Belgium,Nonprofit organization,,Nonprofit organization
+imec,Belgium,Academia,,Academia
+ISO 20022 Registration Authority,Belgium,Nonprofit organization,,Nonprofit organization
+VITO,Belgium,Nonprofit organization,,Nonprofit organization
+NIC.br - Brazilian Network Information Center,Brazil,Nonprofit organization,Nonprofit organization,Nonprofit organization
+Ontotext,Bulgaria,Small/Medium enterprise,,Small/Medium enterprise
+QualiBooth,Bulgaria,Small/Medium enterprise,,Small/Medium enterprise
+1Password,Canada,Small/Medium enterprise,Large enterprise,Large enterprise
+Common Approach to Impact Measurement,Canada,Technical community,,Technical community
+Crawford Technologies,Canada,Large enterprise,,Large enterprise
+eBOUND Canada,Canada,Nonprofit organization,,Nonprofit organization
+GrackleDocs,Canada,Nonprofit organization,,Nonprofit organization
+Mavennet Systems Inc.,Canada,Small/Medium enterprise,,Small/Medium enterprise
+Natural Resources Canada,Canada,Government,,Government
+Shopify,Canada,Large enterprise,,Large enterprise
+Thomson Reuters Corp.,Canada,Large enterprise,,Large enterprise
+360,China,Large enterprise,,Large enterprise
+Alibaba Group,China,Large enterprise,,Large enterprise
+"Ant Group Co., Ltd.",China,Large enterprise,,Large enterprise
+"Baidu, Inc.",China,Large enterprise,,Large enterprise
+Beihang University,China,Academia,,Academia
+"Beijing Haitai Fangyuan Technologies Co,.Ltd.",China,Large enterprise,,Large enterprise
+ByteDance,China,Large enterprise,Large enterprise,Large enterprise
+China Academy of Information and Communications Technology (CAICT),China,Government,,Government
+China Electronics Standardization Institute（中国电子技术标准化研究院）,China,Nonprofit organization,,Nonprofit organization
+China Mobile Communications Corporation,China,Large enterprise,,Large enterprise
+Chinese Academy of Sciences,China,Academia,,Academia
+DappWorks Technology Inc.,China,Large enterprise,,Large enterprise
+Dingdao,China,Large enterprise,,Large enterprise
+ESWIN,China,Small/Medium enterprise,,Small/Medium enterprise
+Finogeeks,China,Small/Medium enterprise,,Small/Medium enterprise
+Huawei,China,Large enterprise,,Large enterprise
+InclusionX 融合加科技,China,Large enterprise,,Large enterprise
+"Jiangsu TPBlock Technology Co., Ltd. （江苏第三极区块链科技有限公司）",China,Large enterprise,,Large enterprise
+Loongson(He Fei) Technology Corporation Limited,China,Large enterprise,,Large enterprise
+Memect Technology Co. Ltd. 北京文因互联科技有限公司,China,Small/Medium enterprise,,Small/Medium enterprise
+Nanjing Institute of digital Financial Industry Co.Ltd,China,Large enterprise,,Large enterprise
+Nanjing University,China,Academia,,Academia
+Shenzhen Accessibility Research Association,China,Nonprofit organization,,Nonprofit organization
+Shenzhen Institute of Information Technology,China,Academia,,Academia
+Tencent,China,Large enterprise,,Large enterprise
+Zhejiang University,China,Academia,,Academia
+ZIIOT,China,Nonprofit organization,,Nonprofit organization
+Instituto Tecnológico de Costa Rica,Costa Rica,Academia,,Academia
+Agency for Digitisation,Denmark,Government,Government,Government
+Criipto,Denmark,Small/Medium enterprise,,Small/Medium enterprise
+Siteimprove,Denmark,Large enterprise,,Large enterprise
+Aalto University,Finland,Academia,,Academia
+Tampere University,Finland,Academia,,Academia
+Traficom - Finnish Transport and Communications Agency,Finland,Government,,Government
+CANTON CONSULTING,France,Small/Medium enterprise,,Small/Medium enterprise
+Criteo,France,Large enterprise,,Large enterprise
+EDRLab,France,Nonprofit organization,,Nonprofit organization
+ERCIM,France,Academia,,Academia
+FIME,France,Large enterprise,,Large enterprise
+Institut Mines-Télécom,France,Academia,,Academia
+Institut National de Recherche en Informatique et en Automatique (Inria),France,Academia,Academia,Academia
+Startin'blox,France,Technical community,Small/Medium enterprise,Small/Medium enterprise
+Université Côte d'Azur,France,Academia,,Academia
+Datagraph GmbH,Germany,Small/Medium enterprise,,Small/Medium enterprise
+eyeo GmbH,Germany,Small/Medium enterprise,,Small/Medium enterprise
+Forschungszentrum Informatik (FZI),Germany,Academia,,Academia
+Fraunhofer Gesellschaft,Germany,Nonprofit organization,,Nonprofit organization
+German Research Center for Artificial Intelligence (DFKI) Gmbh,Germany,Nonprofit organization,,Nonprofit organization
+HiveMQ,Germany,Small/Medium enterprise,,Small/Medium enterprise
+Hochschulbibliothekszentrum des Landes NRW,Germany,Nonprofit organization,,Nonprofit organization
+IDnow GmbH,Germany,Small/Medium enterprise,,Small/Medium enterprise
+SAP SE,Germany,Large enterprise,,Large enterprise
+Siemens AG,Germany,Large enterprise,,Large enterprise
+SPRIND GmbH,Germany,Nonprofit organization,,Nonprofit organization
+The German Association for the Digital Economy (BVDW),Germany,Nonprofit organization,,Nonprofit organization
+Thinktecture,Germany,Small/Medium enterprise,,Small/Medium enterprise
+Viacom inc.,Germany,Large enterprise,,Large enterprise
+|pipe|,Germany,Technical community,,Technical community
+CRITAC,Ghana,Nonprofit organization,,Nonprofit organization
+Foundation for Research and Technology - Hellas (FORTH),Greece,Academia,,Academia
+"Digital Policy Office, The Government of the Hong Kong Special Administrative Region of the People's Republic of China",Hong Kong SAR China,Government,,Government
+Hong Kong Blind Union,Hong Kong SAR China,Nonprofit organization,,Nonprofit organization
+SZTAKI,Hungary,Academia,,Academia
+BarrierBreak Technologies,India,Small/Medium enterprise,,Small/Medium enterprise
+Whatfix,India,Large enterprise,,Large enterprise
+INSIGHT - The Centre for Data Analytics,Ireland,Academia,,Academia
+Vidos,Ireland,Technical community,,Technical community
+Vision Ireland,Ireland,Small/Medium enterprise,,Small/Medium enterprise
+accessiBe,Israel,Nonprofit organization,,Nonprofit organization
+Wix.com Ltd.,Israel,Large enterprise,,Large enterprise
+Agenzia per l'Italia Digitale,Italy,Government,,Government
+Electe,Italy,Small/Medium enterprise,,Small/Medium enterprise
+Fondazione LIA,Italy,Nonprofit organization,,Nonprofit organization
+University of Milano Bicocca,Italy,Academia,,Academia
+"ACCESS CO., LTD.",Japan,Large enterprise,,Large enterprise
+"Alfasado, Inc.",Japan,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Design Inc.,Japan,Small/Medium enterprise,,Small/Medium enterprise
+Digital Publishers Federation of Japan,Japan,Nonprofit organization,Nonprofit organization,Nonprofit organization
+FLUX Inc.,Japan,Large enterprise,,Large enterprise
+Fujitsu Limited,Japan,Large enterprise,,Large enterprise
+Future Technology Laboratories Inc.,Japan,Small/Medium enterprise,,Small/Medium enterprise
+"Hitachi, Ltd.",Japan,Large enterprise,,Large enterprise
+Internet Academy,Japan,Academia,,Academia
+"Internet Research Institute, Inc.",Japan,Large enterprise,,Large enterprise
+"Japan Registry Services Co., Ltd.",Japan,Large enterprise,,Large enterprise
+"JCB CO., LTD.",Japan,Large enterprise,,Large enterprise
+Kadokawa Corporation,Japan,Large enterprise,,Large enterprise
+KDDI CORPORATION,Japan,Large enterprise,,Large enterprise
+Keio University,Japan,Academia,,Academia
+"Kodansha, Publishers, Ltd.",Japan,Large enterprise,,Large enterprise
+LY Corporation,Japan,Large enterprise,,Large enterprise
+"MEDIA DO Co., Ltd.",Japan,Small/Medium enterprise,,Small/Medium enterprise
+Mitsubishi Electric Corporation,Japan,Large enterprise,,Large enterprise
+"Mitsue-Links Co., Ltd.",Japan,Small/Medium enterprise,,Small/Medium enterprise
+NEC Corporation,Japan,Large enterprise,,Large enterprise
+Newphoria Corporation,Japan,Small/Medium enterprise,,Small/Medium enterprise
+NHK (Japan Broadcasting Corporation),Japan,Nonprofit organization,,Nonprofit organization
+Nippon Telegraph & Telephone Corp. (NTT),Japan,Large enterprise,,Large enterprise
+Originator Profile CIP,Japan,Nonprofit organization,,Nonprofit organization
+"Rakuten Group, Inc.",Japan,Large enterprise,,Large enterprise
+SHOGAKUKAN Inc.,Japan,Large enterprise,,Large enterprise
+SHUEISHA Inc.,Japan,Large enterprise,,Large enterprise
+SIVIRA Inc.,Japan,Small/Medium enterprise,,Small/Medium enterprise
+SoftBank Corp.,Japan,Large enterprise,,Large enterprise
+Sony Group Corporation,Japan,Large enterprise,,Large enterprise
+Studio株式会社,Japan,Small/Medium enterprise,,Small/Medium enterprise
+"Voyager Japan, Inc.",Japan,Small/Medium enterprise,,Small/Medium enterprise
+Web Consortium Asia Pacific (WCAP),Japan,Nonprofit organization,,Nonprofit organization
+WebDINO Japan,Japan,Nonprofit organization,,Nonprofit organization
+株式会社Kiva,Japan,Small/Medium enterprise,,Small/Medium enterprise
+Green Technology Co,Kuwait,Small/Medium enterprise,,Small/Medium enterprise
+Ecole Mohammadia d'Ingenieurs Rabat (EMI),Morocco,Academia,,Academia
+Abra,Netherlands,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Accessibility Foundation,Netherlands,Nonprofit organization,,Nonprofit organization
+Adyen,Netherlands,Large enterprise,,Large enterprise
+AllianceBlock Nexera,Netherlands,Small/Medium enterprise,,Small/Medium enterprise
+Dyne.org,Netherlands,Nonprofit organization,,Nonprofit organization
+Geonovum,Netherlands,Nonprofit organization,,Nonprofit organization
+Logius,Netherlands,Government,,Government
+SURF bv,Netherlands,Nonprofit organization,,Nonprofit organization
+Ver.iD,Netherlands,Small/Medium enterprise,,Small/Medium enterprise
+Vrije Universiteit,Netherlands,Academia,,Academia
+Yoast,Netherlands,Small/Medium enterprise,,Small/Medium enterprise
+Mattr Limited,New Zealand,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Whereby,Norway,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Callstack,Poland,Technical community,,Technical community
+Digital Contract Design,Puerto Rico,Small/Medium enterprise,,Small/Medium enterprise
+"Mada Center, Qatar",Qatar,Nonprofit organization,,Nonprofit organization
+Ecole Superieure Polytechnique de Dakar,Senegal,Academia,,Academia
+Affinidi Pte. Ltd.,Singapore,Large enterprise,,Large enterprise
+Government Technology Agency,Singapore,Government,,Government
+Entersekt,South Africa,Small/Medium enterprise,,Small/Medium enterprise
+Snake Nation,South Africa,Nonprofit organization,,Nonprofit organization
+CREATIVECODE,South Korea,Technical community,,Technical community
+Electronics and Telecommunications Research Institute (ETRI),South Korea,Government,,Government
+Gooroomee Inc.,South Korea,Small/Medium enterprise,,Small/Medium enterprise
+"Inswave Systems Co., Ltd.",South Korea,Large enterprise,,Large enterprise
+Korea Electronics Technology Institute (KETI),South Korea,Nonprofit organization,,Nonprofit organization
+LG Electronics,South Korea,Large enterprise,,Large enterprise
+"Samsung Electronics Co., Ltd.",South Korea,Large enterprise,,Large enterprise
+Sharing Economy Association of Korea (SEAK),South Korea,Nonprofit organization,,Nonprofit organization
+Ayuntamiento de Zaragoza,Spain,Government,,Government
+Fundacion CTIC,Spain,Nonprofit organization,,Nonprofit organization
+Igalia,Spain,Technical community,,Technical community
+Ministerio de Hacienda y Administraciones Públicas,Spain,Government,,Government
+Universidad Politécnica de Madrid,Spain,Academia,,Academia
+WIRIS Science,Spain,Small/Medium enterprise,,Small/Medium enterprise
+ERICSSON,Sweden,Large enterprise,,Large enterprise
+National Library of Sweden,Sweden,Government,,Government
+Stiftelsen for internetinfrastruktur (IIS),Sweden,Nonprofit organization,,Nonprofit organization
+ABC New Media AG,Switzerland,Small/Medium enterprise,,Small/Medium enterprise
+BSV Association,Switzerland,Nonprofit organization,Nonprofit organization,Nonprofit organization
+CERN,Switzerland,Academia,,Academia
+DAISY Consortium,Switzerland,Nonprofit organization,,Nonprofit organization
+Dfinity Stiftung,Switzerland,Nonprofit organization,,Nonprofit organization
+Dreamlab Technologies AG,Switzerland,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+ETH Zurich,Switzerland,Academia,,Academia
+Ethereum Foundation,Switzerland,Nonprofit organization,,Nonprofit organization
+Netcetera,Switzerland,Large enterprise,,Large enterprise
+OISTE Foundation,Switzerland,Nonprofit organization,,Nonprofit organization
+Proton AG,Switzerland,Nonprofit organization,,Nonprofit organization
+Zazuko GmbH,Switzerland,Technical community,,Technical community
+"Ministry of Digital Affairs, Taiwan",Taiwan,Government,,Government
+Taiwan Digital Publishing Forum,Taiwan,Nonprofit organization,Nonprofit organization,Nonprofit organization
+Accessible by Design,United Kingdom,Small/Medium enterprise,,Small/Medium enterprise
+Apeleg Limited,United Kingdom,Small/Medium enterprise,,Small/Medium enterprise
+ARM Limited,United Kingdom,Large enterprise,Large enterprise,Large enterprise
+BFO,United Kingdom,Small/Medium enterprise,,Small/Medium enterprise
+British Broadcasting Corporation,United Kingdom,Nonprofit organization,,Nonprofit organization
+HM Government,United Kingdom,Government,,Government
+King's College London,United Kingdom,Academia,,Academia
+LSEG,United Kingdom,Large enterprise,,Large enterprise
+MKR Digital Ltd,United Kingdom,Small/Medium enterprise,,Small/Medium enterprise
+Movement for an Open Web,United Kingdom,Nonprofit organization,,Nonprofit organization
+NCSC,United Kingdom,Government,,Government
+Nomensa,United Kingdom,Small/Medium enterprise,,Small/Medium enterprise
+Powermapper Software,United Kingdom,Small/Medium enterprise,,Small/Medium enterprise
+Royal National Institute of Blind People (RNIB),United Kingdom,Nonprofit organization,,Nonprofit organization
+TetraLogical Services Ltd,United Kingdom,Small/Medium enterprise,,Small/Medium enterprise
+The National Archives,United Kingdom,Government,,Government
+The Open University,United Kingdom,Academia,,Academia
+University of Edinburgh,United Kingdom,Academia,,Academia
+University of Oxford,United Kingdom,Academia,,Academia
+1Acreate,United States,Small/Medium enterprise,,Small/Medium enterprise
+Adobe,United States,Large enterprise,,Large enterprise
+Agog,United States,Nonprofit organization,,Nonprofit organization
+Airbnb Inc,United States,Large enterprise,,Large enterprise
+AKA Protocol,United States,Technical community,,Technical community
+Akamai Technologies,United States,Large enterprise,,Large enterprise
+Amazon,United States,Large enterprise,Large enterprise,Large enterprise
+American Express Company,United States,Large enterprise,,Large enterprise
+"Anonyome Labs, Inc.",United States,Large enterprise,,Large enterprise
+Apache Software Foundation,United States,Nonprofit organization,,Nonprofit organization
+Apple Inc.,United States,Large enterprise,,Large enterprise
+Arizona State University,United States,Academia,,Academia
+AT&T,United States,Large enterprise,,Large enterprise
+"AudioEye, Inc.",United States,Large enterprise,,Large enterprise
+Autodesk,United States,Large enterprise,,Large enterprise
+Bank of America,United States,Large enterprise,,Large enterprise
+Benetech,United States,Nonprofit organization,,Nonprofit organization
+Beyond Limits Foundation,United States,Nonprofit organization,,Nonprofit organization
+Bitwarden,United States,Nonprofit organization,,Nonprofit organization
+Blerify Inc,United States,Small/Medium enterprise,,Small/Medium enterprise
+"Block, Inc.",United States,Large enterprise,,Large enterprise
+Bloomberg,United States,Large enterprise,,Large enterprise
+Bocoup,United States,Nonprofit organization,,Nonprofit organization
+Book Industry Study Group,United States,Nonprofit organization,Nonprofit organization,Nonprofit organization
+Brave Software Inc.,United States,Small/Medium enterprise,,Small/Medium enterprise
+California Baptist University,United States,Academia,,Academia
+"Cambium Assessment, Inc.",United States,Small/Medium enterprise,Large enterprise,Large enterprise
+Capital One Financial,United States,Large enterprise,Large enterprise,Large enterprise
+Center for Democracy and Technology,United States,Nonprofit organization,,Nonprofit organization
+Cisco,United States,Large enterprise,,Large enterprise
+"CleverThis, Inc.",United States,Small/Medium enterprise,,Small/Medium enterprise
+Client side development Inc,United States,Small/Medium enterprise,,Small/Medium enterprise
+College Board,United States,Nonprofit organization,,Nonprofit organization
+Comcast Corporation,United States,Large enterprise,,Large enterprise
+Conexxus,United States,Nonprofit organization,,Nonprofit organization
+Consensys,United States,Large enterprise,,Large enterprise
+COVESA,United States,Nonprofit organization,,Nonprofit organization
+"CVS Pharmacy, Inc.",United States,Large enterprise,,Large enterprise
+"Daily, Co",United States,Small/Medium enterprise,,Small/Medium enterprise
+Data Transfer Initiative,United States,Nonprofit organization,,Nonprofit organization
+Datadog,United States,Large enterprise,,Large enterprise
+Defense Information Systems Agency,United States,Government,,Government
+Department of Homeland Security,United States,Government,Government,Government
+"Deque Systems, Inc.",United States,Large enterprise,,Large enterprise
+"Deronyan, LLC",United States,Small/Medium enterprise,,Small/Medium enterprise
+Digital Bazaar,United States,Nonprofit organization,,Nonprofit organization
+Discord,United States,Large enterprise,,Large enterprise
+Discover Financial Services LLC,United States,Large enterprise,,Large enterprise
+"Dolby Laboratories, Inc.",United States,Large enterprise,,Large enterprise
+"Duck Duck Go, Inc.",United States,Small/Medium enterprise,,Small/Medium enterprise
+Dynatrace LLC,United States,Large enterprise,,Large enterprise
+EcomBack,United States,Nonprofit organization,,Nonprofit organization
+Fastly,United States,Large enterprise,,Large enterprise
+Futurewei Technologies,United States,Large enterprise,,Large enterprise
+Google LLC,United States,Large enterprise,,Large enterprise
+"Graphmetrix, Inc.",United States,Large enterprise,,Large enterprise
+Holopin,United States,Small/Medium enterprise,,Small/Medium enterprise
+HUMAN,United States,Large enterprise,,Large enterprise
+Hypothes.is Project,United States,Academia,,Academia
+"IAB Technology Laboratory, Inc.",United States,Technical community,,Technical community
+IBM Corporation,United States,Large enterprise,Large enterprise,Large enterprise
+Identity.com,United States,Nonprofit organization,Nonprofit organization,Nonprofit organization
+Ignite Retail Technology,United States,Small/Medium enterprise,,Small/Medium enterprise
+Indeed,United States,Large enterprise,,Large enterprise
+Inrupt Inc.,United States,Large enterprise,,Large enterprise
+Intel Corporation,United States,Large enterprise,,Large enterprise
+Interledger Foundation,United States,Nonprofit organization,,Nonprofit organization
+Internet2,United States,Nonprofit organization,,Nonprofit organization
+J. Paul Getty Trust,United States,Nonprofit organization,,Nonprofit organization
+Kaiser Permanente,United States,Nonprofit organization,,Nonprofit organization
+Kevel,United States,Large enterprise,,Large enterprise
+Knowbility,United States,Nonprofit organization,,Nonprofit organization
+Lawrence Berkeley National Laboratory,United States,Nonprofit organization,,Nonprofit organization
+Legendary Requirements,United States,Small/Medium enterprise,,Small/Medium enterprise
+Level Access,United States,Nonprofit organization,,Nonprofit organization
+Library of Congress,United States,Government,,Government
+"LunarG, Inc.",United States,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+"Magic Leap, Inc.",United States,Large enterprise,,Large enterprise
+Magnite,United States,Large enterprise,,Large enterprise
+Mastercard Incorporated,United States,Large enterprise,,Large enterprise
+Meedan,United States,Nonprofit organization,,Nonprofit organization
+Merchant Advisory Group,United States,Nonprofit organization,,Nonprofit organization
+Meta,United States,Large enterprise,,Large enterprise
+Microsoft Corporation,United States,Large enterprise,,Large enterprise
+MITRE Corporation,United States,Nonprofit organization,,Nonprofit organization
+Monotype,United States,Large enterprise,,Large enterprise
+MovieLabs,United States,Nonprofit organization,,Nonprofit organization
+Mozilla Foundation,United States,Nonprofit organization,,Nonprofit organization
+National Institute of Standards and Technology (NIST),United States,Government,Technical community,Technical community
+Navy Federal Credit Union,United States,Nonprofit organization,Nonprofit organization,Nonprofit organization
+Netflix Inc.,United States,Large enterprise,,Large enterprise
+NextRoll,United States,Large enterprise,,Large enterprise
+Nok Nok Labs,United States,Large enterprise,,Large enterprise
+NVIDIA,United States,Large enterprise,,Large enterprise
+OASIS,United States,Nonprofit organization,,Nonprofit organization
+"Object Management Group, Inc. (OMG)",United States,Nonprofit organization,,Nonprofit organization
+Okta,United States,Large enterprise,,Large enterprise
+Open Geospatial Consortium,United States,Nonprofit organization,,Nonprofit organization
+OpenJS Foundation,United States,Nonprofit organization,,Nonprofit organization
+OpenLink Software Inc.,United States,Small/Medium enterprise,,Small/Medium enterprise
+OpenX Technologies Inc,United States,Large enterprise,,Large enterprise
+Oracle Corporation,United States,Large enterprise,Large enterprise,Large enterprise
+PayPal,United States,Large enterprise,,Large enterprise
+Ping Identity,United States,Large enterprise,,Large enterprise
+Playco,United States,Large enterprise,,Large enterprise
+Qualcomm,United States,Large enterprise,,Large enterprise
+RANDA Solutions,United States,Large enterprise,,Large enterprise
+Raptive,United States,Small/Medium enterprise,,Small/Medium enterprise
+Rhonda Weiss Center for Accessible IDEA Data,United States,Nonprofit organization,,Nonprofit organization
+Salesforce,United States,Nonprofit organization,,Nonprofit organization
+Skynet Technologies,United States,Small/Medium enterprise,,Small/Medium enterprise
+Snap,United States,Large enterprise,,Large enterprise
+Social Web Foundation,United States,Nonprofit organization,,Nonprofit organization
+Spherical Cow Consulting,United States,Technical community,Small/Medium enterprise,Small/Medium enterprise
+"Spruce Systems, Inc.",United States,Small/Medium enterprise,,Small/Medium enterprise
+Stanford University,United States,Academia,,Academia
+Stony Brook University,United States,Academia,,Academia
+Switchchord,United States,Small/Medium enterprise,,Small/Medium enterprise
+The New York Times,United States,Large enterprise,,Large enterprise
+The News Corporation,United States,Large enterprise,,Large enterprise
+The Trade Desk,United States,Large enterprise,,Large enterprise
+The Washington Post,United States,Large enterprise,,Large enterprise
+TinyCloud,United States,Small/Medium enterprise,,Small/Medium enterprise
+TopQuadrant,United States,Large enterprise,,Large enterprise
+TPGi,United States,Small/Medium enterprise,,Small/Medium enterprise
+Tradeverifyd,United States,Small/Medium enterprise,,Small/Medium enterprise
+Trinsic,United States,Large enterprise,,Large enterprise
+Understood,United States,Nonprofit organization,,Nonprofit organization
+UnitedHealth Group,United States,Large enterprise,,Large enterprise
+University of Illinois,United States,Academia,,Academia
+UsableNet,United States,Small/Medium enterprise,,Small/Medium enterprise
+"Verisign, Inc.",United States,Large enterprise,,Large enterprise
+Visa,United States,Large enterprise,Large enterprise,Large enterprise
+VitalSource Technologies,United States,Large enterprise,Large enterprise,Large enterprise
+Walt Disney Company,United States,Large enterprise,,Large enterprise
+Web3D Consortium,United States,Nonprofit organization,,Nonprofit organization
+Wikimedia Foundation,United States,Nonprofit organization,,Nonprofit organization
+XRDNA,United States,Small/Medium enterprise,,Small/Medium enterprise
+Yahoo Holdings Inc.,United States,Large enterprise,,Large enterprise
+Yubico,United States,Nonprofit organization,,Nonprofit organization
+Zoom,United States,Large enterprise,,Large enterprise
+GLEIF,Switzerland,Nonprofit organization,Nonprofit organization,Nonprofit organization
+Toshiba Corporation,Japan,Large enterprise,Large enterprise,Large enterprise
+Agora.io,China,Large enterprise,Large enterprise,Large enterprise
+Quantcast,United States,Large enterprise,Large enterprise,Large enterprise
+Legible Media Inc.,Canada,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Robert Bosch GmbH,Germany,Large enterprise,Large enterprise,Large enterprise
+VMware,United States,Large enterprise,Large enterprise,Large enterprise
+NCR Voyix,United States,Large enterprise,Large enterprise,Large enterprise
+Worldline,France,Large enterprise,Large enterprise,Large enterprise
+Janeiro Digital,United States,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Techfriar,India,Large enterprise,Large enterprise,Large enterprise
+The Clearing House,United States,Nonprofit organization,Nonprofit organization,Nonprofit organization
+Lenovo,China,Large enterprise,Large enterprise,Large enterprise
+Centre for Inclusive Design,Australia,Nonprofit organization,Small/Medium enterprise,Small/Medium enterprise
+Jolocom GmbH,Germany,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Cloudflare,United States,Large enterprise,Large enterprise,Large enterprise
+TikTok,China,Large enterprise,Large enterprise,Large enterprise
+Tigim,Ireland,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Brickdoc,United States,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Wiley,United States,Large enterprise,Large enterprise,Large enterprise
+Mightybytes,United States,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Protocol Labs,United States,Technical community,Technical community,Technical community
+University of Southampton,United Kingdom,Academia,Academia,Academia
+Koodos Labs,United States,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Warm Automation,United States,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+mesur.io,United States,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+Exact Realty Limited,United States,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
+"Hangzhou Qulian Technology Co., Ltd.",China,Small/Medium enterprise,Large enterprise,Large enterprise
+Gen,Brazil,Large enterprise,Small/Medium enterprise,Small/Medium enterprise
+Luminem,France,Small/Medium enterprise,Small/Medium enterprise,Small/Medium enterprise
