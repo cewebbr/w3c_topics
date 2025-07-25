@@ -10,6 +10,8 @@ resultados/artigo/article.blg
 resultados/artigo/article.aux
 resultados/artigo/article.log
 resultados/artigo/article.out
+analises/modules/__pycache__
+
 
 # Local:
 env
@@ -22,8 +24,10 @@ data/processed/org_websites/abouts/*
 !data/processed/org_websites/abouts/.gitignore
 data/raw/manual/w3c-members-country-sector_manual.web
 
+
 # Large
 data/raw/api
+
 
 # Private
 docs
