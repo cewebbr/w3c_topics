@@ -1,4 +1,33 @@
+
+# Trash:
 analises/.ipynb_checkpoints
 analises/__pycache__
 #README.md#
+data/processed/trash
+resultados/artigo/images/*-eps-converted-to.pdf
+resultados/artigo/article.bbl
+resultados/artigo/article.blg
+resultados/artigo/article.aux
+resultados/artigo/article.log
+resultados/artigo/article.out
+
+# Local:
 env
+data/huggingfaceembeddings/*
+!data/huggingfaceembeddings/.gitignore
+data/processed/org_websites/*
+!data/processed/org_websites/.gitignore
+!data/processed/org_websites/abouts
+data/processed/org_websites/abouts/*
+!data/processed/org_websites/abouts/.gitignore
+data/raw/manual/w3c-members-country-sector_manual.web
+
+# Large
+data/raw/api
+
+# Private
+docs
+imagens
+keys/*
+!keys/.gitignore
+registros
